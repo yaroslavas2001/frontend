@@ -1,0 +1,205 @@
+{
+    "BaseMenu_news": "Actualités",
+    "BaseMenu_job_openings": "Offres d'emploi",
+    "BaseMenu_partners": "Partenaires",
+    "BaseMenu_banners": "Bannières",
+    "BaseMenu_contracts": "Сontrats",
+    "BaseMenu_users": "Utilisateurs",
+
+
+    "Login_title": "Connectez-vous pour démarrer la session",
+    "Login_checkBox_rememberMe": "Se souvenir de moi",
+    "Login_forgotYourPassword": "Mot de passe oublié?",
+    "Login_btn_toСomeIn": "Se connecter",
+    "Login_newUserRegistration": "Enregistrement d'un nouvel utilisateur",
+
+    "login": "Login",
+    "logout": "Sortir",
+
+    "News_title": "Actualités",
+    "News_btn_search": "Recherche",
+    "News_btn_add_news": "Ajouter des nouvelles",
+    "News_input_plaseHolder_search": "Recherche...",
+
+    "News_Table_name": "Designation",
+    "News_Table_category": "Catégorie",
+    "News_Table_date_add": "Date d'ajout",
+    "News_Table_options": "Les options",
+
+    "ModalWindow_title_addNews": "Ajouter des nouvelles",
+    "ModalWindow_title_editNews": "Modifier les actualités",
+    "ModalWindow_caption_addNews": "Entrez le nom de l'actualité:",
+    "ModalWindow_placeHolder_name": "Designation...",
+    "ModalWindow_caption_category": "Choisissez une catégorie:",
+    "ModalWindow_placeHolder_category": "Catégorie...",
+    "ModalWindow_caption_description": "Description:",
+    "ModalWindow_caption_folder": "Entrez le nom du repertoire ou http://...:",
+    "ModalWindow_placeHolder_folder": "Repertoire...",
+
+    "ModalWindow_btn_download": "Téléchargez zip",
+    "ModalWindow_btn_donloadPhoto": "Ajouter photo",
+    "ModalWindow_btn_save": "Enregistrer",
+
+    "noData": "Pas de données",
+    "user_add": "Ajouter un utilisateur",
+    "terminaleType": "Type de terminal",
+    "altLong": "Latitude / Longitude",
+    "address": "Adresse",
+    "shopName": "Nom du magasin",
+    "btn_add": "Ajouter",
+    "selectMobileUser": "Sélectionnez un utilisateur mobile!",
+    "history": "L'histoire",
+    "deviceNotFound!": "Appareil non trouvé!",
+
+    "Partners_title": "Partenaires",
+    "Partners_btn_base": "Principal",
+    "Partners_btn_another": "Autre",
+    "Partners_btn_add": "Ajouter",
+
+    "ModalWindow_title_addPartners": "Nouveau partenaire",
+    "ModalWindow_caption_link": "Lien:",
+    "ModalWindow_btn_downloadPhoto": "Ajouter photo ...",
+
+
+    "Dialog_reallyDelete": "Supprimer vraiment?",
+
+    "Dialog_photoSizeMustBeSmaller": "La taille de la photo doit être plus petite ",
+    "Dialog_kbYourFileSize": "kb, la taille de votre fichier: ",
+    "btn_search": "Recherche",
+    "placeHolder_search": "Recherche...",
+
+    "Banners_title": "Bannières",
+
+    "ModalWindow_title_addBanner": "Nouvelle bannière",
+    "ModalWindow_sliderCaption": "Légende du curseur",
+
+
+    "Contacts": "Сontrats",
+
+    "Contacts_Client": "Client:",
+    "Contacts_RegNum": "Matricule Fiscale(MF):",
+    "Contacts_Phone": "Telephone:",
+    "Contacts_Address": "Adresse Juridique:",
+    "Contacts_Region": "Région:",
+    "Contacts_ContractType": "Type de contrat:",
+    "Contacts_MarketsCount": "Nombre de magasins:",
+    "Contacts_PointsCount": "Nombre de points:",
+
+
+    "Users_title": "Utilisateurs d'application mobiles",
+    "Users_table_name": "Nom d'utilisateur",
+    "Users_table_dateReg": "Date d'inscription",
+
+    "ModalWindow_title_addDevice": "Connecter le terminal",
+    "ModalWindow_text_userDevice": "Utilisateur du terminal:",
+    "ModalWindow_caption_codeDevice": "Entrez le code du terminal:",
+    "ModalWindow_placeHolder_code": "Code...",
+    "ModalWindow_caption_changeRole": "Définir les rôles:",
+    "ModalWindow_placeHolder_role": "Rôles...",
+    "ModalWindow_btn_connect": "Connecter",
+
+    "selectDevice": "Sélectionner un appareil",
+    "checkDeviceCode": "Vérifier le code de l'appareil!",
+    "deviceAddedSuccessfully": "Appareil ajouté avec succès!",
+    "areYouSureYouWantToDisconnectTheDevice": "Voulez-vous vraiment déconnecter l'appareil?",
+
+    "UsersDevice_btn_addDevice": "Ajouter terminal",
+    "UsersDevice_table_shopName": "Nom du magasin",
+    "UsersDevice_table_adres": "Adresse",
+    "UsersDevice_table_altLong": "Latitude / Longitude",
+    "UsersDevice_table_terminaleType": "Type de terminal",
+    "UsersDevice_table_terminaleCode": "Code du terminal",
+    "UsersDevice_table_role": "Rôles",
+
+    "Kpi_title": "KPI",
+    "Kpi_table_period": "Période",
+    "Kpi_table_target": "Objectif",
+    "Kpi_table_reward": "Rémunération",
+    "moreDetails": "Plus de détails",
+
+    "ModalWindow_title_addKpi": "Ajouter KPI",
+
+    "ModalWindow_caption_quantity": "Quantité:",
+
+    "Kpi_target_quantity": "Nombre de nouveaux contrats",
+    "Kpi_target_sum": "Montant de transaction",
+    "Kpi_target_terminals": "Terminals disponible",
+
+    "Kpi_user_table_mobileUsers": "Utilisateurs des terminaux mobiles",
+    "Kpi_user_table_quantity": "Nombre",
+    "Kpi_user_history_date": "Date",
+
+    "Kpi_user_add": "Ajouter un utilisateur au KPI",
+    "Kpi_user_placeHolder_user": "Utilisateur",
+
+
+    "Map_placeHolder_Search": "Recherche par code du certif ...",
+    "Map_placeHolder_filter_employers": "Filtrer par employés...",
+    "Map_placeHolder_filterStatus": "Statut...",
+    "Map_placeHolder_typeDevice": "Type du terminal...",
+    "Map_btn_reset": "Réinitialiser",
+    "Map_btn_caption_markOnMap": "Marquer sur la carte:",
+    "Map_placeHolder_PointCode": "Certif sans coordonnées ...",
+
+    "Map_allUser": "Tous les utilisateurs",
+    "Map_allStatus": "Tous les statuts",
+
+    "Map_windowInfo_typePoint": "Type du terminal",
+    "Map_windowInfo_address": "Adresse",
+    "Map_windowInfo_Phone": "Téléphone",
+    "Map_windowInfo_Emloyers": "Responsable",
+    "Map_windowInfo_Balance": "Balance",
+    "Map_windowInfo_btn_change": "Modifier les coordonnées",
+    "Map_windowInfo_btn_set": "Enregistrer les coordonnées",
+    "Map_windowInfo_businessHours": "Heures d'ouverture",
+
+
+    "Map_legend_cashIn": "XL",
+    "Map_legend_noConnection": "Pas de connexion",
+    "Map_legend_technicalError": "Problème technique",
+    "Map_legend_collectionRequired": "Nécessite decaissement ou recouvrement",
+    "Map_legend_setNewPoint": "Installation d'un nouveau terminal",
+    "Map_legend_negativeBalans": "Solde négatif",
+
+    "Map_legend_mini": "MINI",
+
+    "gps_tracker_btn_build": "Construire",
+
+    "allStatuses": "Tous les statuts",
+    "allTypes": "Tous types",
+    "allUsers": "Tous les utilisateurs",
+    "deviceCoordinatesAdded": "Coordonnées de l'appareil ajoutées.",
+    "allGood": "Tout va bien",
+
+    "dialogAttention": "Attention",
+    "dialogBtnCancel": "Annuler",
+    "dialogBtnYes": "Oui",
+
+    "shortDescription": "Brièvement",
+    "description": "En détail",
+    "desc": "Description",
+
+    "add_job_openings": "Ajouter un poste vacant",
+    "edit_job_openings": "Modifier le travail",
+    "edit_desc": "Modification d'une Description",
+    "save": "Save",
+    "cancel": "Cancel",
+    "count": "Nombre",
+    "Confirm": "Confirmer",
+
+
+    "Change/add photo": "Change/add photo",
+    "Change photo": "Changer la photo",
+    "Name": "Le titre",
+
+    "Maximum file size": "Taille maximale du fichier",
+    "Error": "Erreur",
+
+
+    "Distance": "Distance",
+    "km": "km",
+    "Show pos markers": "Afficher les marqueurs POS",
+    "csv-report": "csv-report",
+    "": ""
+
+}

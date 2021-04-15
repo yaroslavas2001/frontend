@@ -1,0 +1,209 @@
+{
+    "BaseMenu_news": "Новости",
+    "BaseMenu_job_openings": "Вакансии",
+    "BaseMenu_partners": "Партнеры",
+    "BaseMenu_banners": "Банеры",
+    "BaseMenu_contracts": "Контракты",
+    "BaseMenu_users": "Пользователи",
+
+
+    "Login_title": "Войдите, чтобы начать сеанс",
+    "Login_checkBox_rememberMe": "Запомнить меня",
+    "Login_forgotYourPassword": "Забыли пароль?",
+    "Login_btn_toСomeIn": "Войти",
+    "Login_newUserRegistration": "Регистрация нового пользователя",
+
+    "login": "вход",
+    "logout": "выйти",
+
+    "News_title": "Новости",
+    "News_btn_search": "Найти",
+    "News_btn_add_news": "Добавить новость",
+    "News_input_plaseHolder_search": "Найти...",
+
+    "News_Table_name": "Название",
+    "News_Table_category": "Категория",
+    "News_Table_date_add": "Дата добавления",
+    "News_Table_options": "Опции",
+
+    "ModalWindow_title_addNews": "Добавить новость",
+    "ModalWindow_title_editNews": "Редактировать новость",
+    "ModalWindow_caption_addNews": "Введите название новости:",
+    "ModalWindow_placeHolder_name": "Название...",
+    "ModalWindow_caption_category": "Выберите категорию:",
+    "ModalWindow_placeHolder_category": "Категория...",
+    "ModalWindow_caption_description": "Описание:",
+    "ModalWindow_caption_folder": "Введите название папки или http://...:",
+    "ModalWindow_placeHolder_folder": "Папка...",
+
+    "ModalWindow_btn_download": "Загрузить zip",
+    "ModalWindow_btn_donloadPhoto": "Загрузить фото",
+    "ModalWindow_btn_save": "Сохранить",
+
+    "noData": "Данные отсутствуют",
+    "user_add": "Добавить пользователя",
+    "terminaleType": "Тип терминала",
+    "altLong": "Ширина/Долгота",
+    "address": "Адресс",
+    "shopName": "Название магазина",
+    "btn_add": "Добавить",
+    "selectMobileUser": "Выберите мобильного пользователя!",
+    "history": "История",
+    "deviceNotFound!": "Устройство не найдено!",
+    "btn_search": "Найти",
+
+    "Partners_title": "Партнеры",
+    "Partners_btn_base": "Главная",
+    "Partners_btn_another": "Другая",
+    "Partners_btn_add": "Добавить",
+
+
+    "ModalWindow_title_addPartners": "Новый партнер",
+    "ModalWindow_caption_link": "Ссылка:",
+    "ModalWindow_btn_downloadPhoto": "Загрузить фото ...",
+
+
+    "Dialog_reallyDelete": "Действительно удалить?",
+
+    "Dialog_photoSizeMustBeSmaller": "Размер фотографии должен быть меньше ",
+    "Dialog_kbYourFileSize": "кб, размер вашего файла: ",
+    "ФИО":"ФИО",
+    "placeHolder_search": "Найти...",
+
+    "Banners_title": "Банеры",
+
+    "ModalWindow_title_addBanner": "Новый баннер",
+    "ModalWindow_sliderCaption": "Надпись на слайдере",
+
+
+    "Contacts": "Контакты",
+
+    "Contacts_Client": "Клиент:",
+    "Contacts_RegNum": "Регистрационный номер(ИНН):",
+    "Contacts_Phone": "Телефон:",
+    "Contacts_Address": "Юр.адрес:",
+    "Contacts_Region": "Регион:",
+    "Contacts_ContractType": "Тип контракта:",
+    "Contacts_MarketsCount": "Количество магазинов:",
+    "Contacts_PointsCount": "Количество точек:",
+
+
+    "Users_title": "Пользователи мобильных устройств",
+    "Users_table_name": "Имя пользователя",
+    "Users_table_dateReg": "Дата регистрации",
+
+    "ModalWindow_title_addDevice": "Подключить устройство",
+    "ModalWindow_text_userDevice": "Пользователь устройства:",
+    "ModalWindow_caption_codeDevice": "Введите код устройства:",
+    "ModalWindow_placeHolder_code": "Код...",
+    "ModalWindow_caption_changeRole": "Задайте роли:",
+    "ModalWindow_placeHolder_role": "Роль...",
+    "ModalWindow_btn_connect": "Подключить",
+
+    "selectDevice": "Выберите устроство",
+    "checkDeviceCode": "Проверьте код устойства!",
+    "deviceAddedSuccessfully": "Устройство успешно добавлено!",
+    "areYouSureYouWantToDisconnectTheDevice": "Вы действительно хотите отключить устройство?",
+
+    "UsersDevice_btn_addDevice": "Добавить устройство",
+    "UsersDevice_table_shopName": "Название магазина",
+    "UsersDevice_table_adres": "Адрес",
+    "UsersDevice_table_altLong": "Ширина/Долгота",
+    "UsersDevice_table_terminaleType": "Тип терминала",
+    "UsersDevice_table_terminaleCode": "Код терминала",
+    "UsersDevice_table_role": "Роль",
+
+    "Kpi_title": "KPI",
+    "Kpi_table_period": "Период",
+    "Kpi_table_target": "Цель",
+    "Kpi_table_reward": "Вознаграждение",
+    "moreDetails": "Подробнее..",
+
+    "ModalWindow_title_addKpi": "Добавить KPI",
+
+    "ModalWindow_caption_quantity": "Количество:",
+
+    "Kpi_target_quantity": "Количество новых договоров",
+    "Kpi_target_sum": "Сумма транзакций",
+    "Kpi_target_terminals": "Доступность терминалов",
+
+    "Kpi_user_table_mobileUsers": "Пользователи мобильных устройств",
+    "Kpi_user_table_quantity": "Количество",
+    "Kpi_user_history_date": "Дата",
+
+    "Kpi_user_add": "Добавить пользователя в KPI",
+    "Kpi_user_placeHolder_user": "Пользователь",
+
+
+    "Map_placeHolder_Search": "Поиск по коду точки ...",
+    "Map_placeHolder_filter_employers": "Фильтр по сотрудникам...",
+    "Map_placeHolder_filterStatus": "Статус...",
+    "Map_placeHolder_typeDevice": "Тип устройства...",
+    "Map_btn_reset": "Сбросить",
+    "Map_btn_caption_markOnMap": "Нанести на карту:",
+    "Map_placeHolder_PointCode": "Код точки без координат ...",
+
+
+    "Map_allUser": "Все пользователи",
+    "Map_allStatus": "Все статусы",
+
+    "Map_windowInfo_typePoint": "Тип точки",
+    "Map_windowInfo_address": "Адресс",
+    "Map_windowInfo_Phone": "Телефон",
+    "Map_windowInfo_Emloyers": "Ответственный сотрудник",
+    "Map_windowInfo_Balance": "Баланс",
+    "Map_windowInfo_btn_change": "Изменить координаты",
+    "Map_windowInfo_btn_set": "Запомнить координаты",
+    "Map_windowInfo_businessHours": "Время работы",
+
+
+
+    "Map_legend_cashIn": "Кэшин",
+    "Map_legend_noConnection": "Нет связи",
+    "Map_legend_technicalError": "Техническая проблема",
+    "Map_legend_collectionRequired": "Требуется инкосация или сбор кэша",
+    "Map_legend_setNewPoint": "Установка новой точки",
+    "Map_legend_negativeBalans": "Отрицательный доступный баланс",
+
+    "Map_legend_mini": "МИНИ",
+
+    "gps_tracker_btn_build": "Построить",
+
+    "allStatuses": "Все статусы",
+    "allTypes": "Все типы",
+    "allUsers": "Все пользователи",
+    "deviceCoordinatesAdded": "Координаты устройства добавлены.",
+    "allGood": "Все хорошо",
+
+    "dialogAttention": "Внимание",
+    "dialogBtnCancel": "Отменить",
+    "dialogBtnYes": "Да",
+
+    "shortDescription": "Кратко",
+    "description": "Подробно",
+    "desc": "Описание",
+
+    "add_job_openings": "Добавить вакансию",
+    "edit_job_openings": "Редактировать вакансию",
+    "edit_desc": "Редактирование описания",
+    "save": "Сохранить",
+    "cancel": "Отменить",
+    "count": "Количество",
+    "Confirm": "Подтвердить",
+
+
+    "Change/add photo": "Modifier / ajouter une photo",
+    "Change photo": "Добавить фото",
+    "Name": "Нзвание",
+    "Image formatting": "Форматирование изображения",
+
+    "Maximum file size": "Максимальный размер файла",
+    "Error": "Ошибка",
+
+    "Distance": "Расстояние",
+    "km": "км",
+    "Show pos markers": "Показать маркеры посов",
+    "csv-report": "csv-отчет",
+    "": ""
+
+}

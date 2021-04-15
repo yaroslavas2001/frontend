@@ -1,0 +1,206 @@
+{
+    "BaseMenu_news": "News",
+    "BaseMenu_job_openings": "Job openings",
+    "BaseMenu_partners": "Partners",
+    "BaseMenu_banners": "Banners",
+    "BaseMenu_contracts": "Contracts",
+    "BaseMenu_users": "Users",
+
+
+    "Login_title": "Login to start a session",
+    "Login_checkBox_rememberMe": "To remember me",
+    "Login_forgotYourPassword": "Forgot your password?",
+    "Login_btn_toСomeIn": "To come in",
+    "Login_newUserRegistration": "New User Registration",
+
+    "login": "login",
+    "logout": "logout",
+
+    "News_title": "News",
+    "News_btn_search": "Search",
+    "News_btn_add_news": "Add news",
+    "News_input_plaseHolder_search": "Search...",
+
+    "News_Table_name": "Name",
+    "News_Table_category": "Category",
+    "News_Table_date_add": "Date Added",
+    "News_Table_options": "Options",
+
+    "ModalWindow_title_addNews": "Add news",
+    "ModalWindow_title_editNews": "Edit news",
+    "ModalWindow_caption_addNews": "Enter the name of the news:",
+    "ModalWindow_placeHolder_name": "Title...",
+    "ModalWindow_caption_category": "Select a category:",
+    "ModalWindow_placeHolder_category": "Category...",
+    "ModalWindow_caption_description": "Description:",
+    "ModalWindow_caption_folder": "Enter the name of the folder or http://...:",
+    "ModalWindow_placeHolder_folder": "Folder...",
+
+    "ModalWindow_btn_download": "Upload zip file",
+    "ModalWindow_btn_donloadPhoto": "Upload a photo",
+    "ModalWindow_btn_save": "Save",
+
+    "noData": "No data",
+    "user_add": "Add user",
+    "terminaleType": "Terminal type",
+    "altLong": "Latitude / Longitude",
+    "address": "Address",
+    "shopName": "Name of shop",
+    "btn_add": "Add",
+    "selectMobileUser": "Choose a mobile user!",
+    "history": "History",
+    "deviceNotFound!": "Device not found!",
+    "btn_search": "Search",
+
+    "Partners_title": "Partners",
+    "Partners_btn_base": "Home",
+    "Partners_btn_another": "Other",
+    "Partners_btn_add": "Add",
+
+
+    "ModalWindow_title_addPartners": "New partner",
+    "ModalWindow_caption_link": "Link:",
+    "ModalWindow_btn_downloadPhoto": "Upload a photo ...",
+
+
+    "Dialog_reallyDelete": "Really delete?",
+
+    "Dialog_photoSizeMustBeSmaller": "Photo size must be smaller ",
+    "Dialog_kbYourFileSize": "kb, your file size: ",
+
+    "placeHolder_search": "Search...",
+
+    "Banners_title": "Banners",
+
+    "ModalWindow_title_addBanner": "New banner",
+    "ModalWindow_sliderCaption": "Slider caption",
+
+
+    "Contacts": "Contracts",
+
+    "Contacts_Client": "Client:",
+    "Contacts_RegNum": "Registration Number (TIN):",
+    "Contacts_Phone": "Phone:",
+    "Contacts_Address": "Legal address:",
+    "Contacts_Region": "Регион:",
+    "Contacts_ContractType": "Type of contract:",
+    "Contacts_MarketsCount": "Number of shops:",
+    "Contacts_PointsCount": "Amount of points:",
+
+
+    "Users_title": "Mobile device users",
+    "Users_table_name": "Username",
+    "Users_table_dateReg": "Registration date",
+
+    "ModalWindow_title_addDevice": "Connect device",
+    "ModalWindow_text_userDevice": "Device user:",
+    "ModalWindow_caption_codeDevice": "Enter device code:",
+    "ModalWindow_placeHolder_code": "Code...",
+    "ModalWindow_caption_changeRole": "Set Roles:",
+    "ModalWindow_placeHolder_role": "Role...",
+    "ModalWindow_btn_connect": "Connect",
+
+    "selectDevice": "Select device",
+    "checkDeviceCode": "Check device code!",
+    "deviceAddedSuccessfully": "Device added successfully!",
+    "areYouSureYouWantToDisconnectTheDevice": "Are you sure you want to disconnect the device?",
+
+    "UsersDevice_btn_addDevice": "Add device",
+    "UsersDevice_table_shopName": "Name of shop",
+    "UsersDevice_table_adres": "Адрес",
+    "UsersDevice_table_altLong": "Latitude / Longitude",
+    "UsersDevice_table_terminaleType": "Terminal type",
+    "UsersDevice_table_terminaleCode": "Terminal code",
+    "UsersDevice_table_role": "Role",
+
+    "Kpi_title": "KPI",
+    "Kpi_table_period": "Period",
+    "Kpi_table_target": "Goal",
+    "Kpi_table_reward": "Remuneration",
+    "moreDetails": "More details..",
+
+    "ModalWindow_title_addKpi": "Add KPI",
+
+    "ModalWindow_caption_quantity": "Quantity:",
+
+    "Kpi_target_quantity": "Number of new contracts",
+    "Kpi_target_sum": "Transaction amount",
+    "Kpi_target_terminals": "Terminal Availability",
+
+    "Kpi_user_table_mobileUsers": "Mobile device users",
+    "Kpi_user_table_quantity": "Number",
+    "Kpi_user_history_date": "Date",
+
+    "Kpi_user_add": "Add user to KPI",
+    "Kpi_user_placeHolder_user": "User",
+
+
+    "Map_placeHolder_Search": "Search by point code...",
+    "Map_placeHolder_filter_employers": "Employee Filter...",
+    "Map_placeHolder_filterStatus": "Status...",
+    "Map_placeHolder_typeDevice": "Device type...",
+    "Map_btn_reset": "Reset",
+    "Map_btn_caption_markOnMap": "To map:",
+    "Map_placeHolder_PointCode": " Point code without coordinates...",
+
+    "Map_allUser": "All users",
+    "Map_allStatus": "All statuses",
+
+    "Map_windowInfo_typePoint": "Point type",
+    "Map_windowInfo_address": "Address",
+    "Map_windowInfo_Phone": "Phone",
+    "Map_windowInfo_Emloyers": "Responsible officer",
+    "Map_windowInfo_Balance": "Balance",
+    "Map_windowInfo_btn_change": "Change coordinates",
+    "Map_windowInfo_btn_set": "Remember coordinates",
+    "Map_windowInfo_businessHours": "Working hours",
+
+
+    "Map_legend_cashIn": "CashIn",
+    "Map_legend_noConnection": "No connection",
+    "Map_legend_technicalError": "Technical problem",
+    "Map_legend_collectionRequired": "Incorporation or cache collection required",
+    "Map_legend_setNewPoint": "Setting a new point",
+    "Map_legend_negativeBalans": "Negative balance available",
+
+    "Map_legend_mini": "MINI",
+
+    "gps_tracker_btn_build": "Build",
+
+    "allStatuses": "All statuses",
+    "allTypes": "All types",
+    "allUsers": "All users",
+    "deviceCoordinatesAdded": "Device coordinates added.",
+    "allGood": "All is well",
+
+    "dialogAttention": "Attention",
+    "dialogBtnCancel": "Cancel",
+    "dialogBtnYes": "Yes",
+
+    "shortDescription": "Short description",
+    "description": "Description",
+    "desc": "Description",
+
+    "add_job_openings": "Add vacancy",
+    "edit_job_openings": "Edit Job",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit_desc": "Edit description",
+    "count": "Count",
+    "Confirm": "Confirm",
+
+
+    "Change/add photo": "Change/add photo",
+    "Change photo": "Change photo",
+    "Name": "Name",
+    "Image formatting": "Image formatting",
+
+    "Maximum file size": "Maximum file size",
+    "Error": "Error",
+
+    "Distance": "Distance",
+    "km": "km",
+    "Show pos markers": "Show pos markers",
+    "csv-report": "csv-report",
+    "": ""
+}
